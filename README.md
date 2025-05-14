@@ -9,6 +9,7 @@
     5. 过程监控中间结果预览
 6. 开发者插件生态
 
+![image](https://github.com/user-attachments/assets/706f04ed-4944-43f0-acd2-7eebaaece0da)
 
 * * *
 项目正在开发中，查看 [wiki](https://github.com/livoras/ezbat/wiki/ezbat-%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3)
